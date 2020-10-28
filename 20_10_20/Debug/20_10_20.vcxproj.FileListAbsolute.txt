@@ -1,0 +1,2 @@
+D:\Study\C\20_10_20\Debug\20_10_20.exe
+D:\Study\C\20_10_20\Debug\20_10_20.pdb

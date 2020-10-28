@@ -1,0 +1,4 @@
+D:\Study\C\2020_10_14\Debug\2020_10_14.exe
+D:\Study\C\2020_10_14\Debug\2020_10_14.pdb
+D:\Study\C\20_10_14\Debug\2020_10_14.exe
+D:\Study\C\20_10_14\Debug\2020_10_14.pdb
